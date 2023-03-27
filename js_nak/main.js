@@ -8,4 +8,5 @@ $(document).ready(function () {
     $('.itemOrder').mouseleave(function () { 
         $(this).slideUp();
     });
+    console.log("Hello ae");
 });
